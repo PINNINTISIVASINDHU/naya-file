@@ -1,0 +1,2 @@
+# naya-file
+linked list
